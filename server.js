@@ -38,7 +38,8 @@ app.use(routes);
 
 //Starting port once db is connected
 sequelize
-  .sync({ force: false })
+  // .sync({ force: false })
+  .authenticate()
   .then(() => {
     app.listen(PORT, () => {
       console.log(`App listening on port ${PORT}!`);
