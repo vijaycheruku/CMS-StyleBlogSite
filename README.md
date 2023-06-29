@@ -17,12 +17,12 @@ bcrypt
 
 ## Screenshots of app running on localhost
 
-![screenshot 1](./Assets/PHOTO-2023-06-29-11-32-19.png)
-![screenshot 2](./Assets/PHOTO-2023-06-29-11-32-18.png)
-![screenshot 3](./Assets/PHOTO-2023-06-29-11-32-18%202.png)
-![screenshot 4](./Assets/PHOTO-2023-06-29-11-32-18%203.png)
-![screenshot 5](./Assets/PHOTO-2023-06-29-11-32-18%204.png)
-![screenshot 6](./Assets/PHOTO-2023-06-29-11-32-18%205.png)
+![screenshot 1](./Assets/11443aa5-b112-47f9-ad17-963ca8784187.JPG)
+![screenshot 2](./Assets/607e4b27-e7c5-4188-97d3-b3d76813992e.JPG)
+![screenshot 3](./Assets/8216f469-053d-43c6-8ab7-0680a7e2adbe.JPG)
+![screenshot 4](./Assets/d14abdb9-d1f8-4726-b0ce-03a0776a74f5.JPG)
+![screenshot 5](./Assets/f370f199-b74d-4851-99a1-bf3b0eb34e67.JPG)
+![screenshot 6](./Assets/fa50ec87-9acc-48a7-a9a5-9ee13cd7d97e.JPG)
 
 
 ## Heroku deployed app url
