@@ -5,7 +5,8 @@ const sequelize = require('./config/connection');
 const path = require('path');
 const exphbs = require('express-handlebars');
 const session = require('express-session');
-const SequelizeStore = require('connect-session-sequelize')(session.Store);
+var SequelizeStore = require("connect-session-sequelize")(session.Store);
+
 
 //hepler used for maintaining session
 const helpers = require('./utils/helpers');
@@ -35,6 +36,7 @@ app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
 
 app.use(routes);
+
 
 //Starting port once db is connected
 sequelize
