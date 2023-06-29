@@ -23,7 +23,8 @@ const ses = {
     saveUninitialized: true,
     store: new SequelizeStore({
         db: sequelize
-    })
+    }),
+    createTableIfMissing: true,
 };
 
 
